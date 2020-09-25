@@ -1,8 +1,5 @@
 testign
 testing
 
-<<<<<<< HEAD
 I love errors
-=======
 new line to make errors
->>>>>>> c9c6ea611e07751b7fccb24a263b9c41bb56b717
